@@ -1,5 +1,0 @@
-package org.tnsif.service;
-
-public interface StudentServices {
-
-}

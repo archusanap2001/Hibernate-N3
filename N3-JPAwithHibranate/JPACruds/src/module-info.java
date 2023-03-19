@@ -5,8 +5,6 @@
  * @author ASUS
  *
  */
-module JPAQueries {
-	requires jdk.compiler;
-	requires java.desktop;
+module JPACruds {
 	requires java.persistence;
 }
